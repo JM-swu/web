@@ -1,0 +1,20 @@
+body{
+  background-image: url(image/bg-05.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+body{
+  font-family: 'Arita-dotum-Medium';
+}
+
+h1{
+  font-family: 'insungitCutelivelyjisu';
+  color: rgb(255, 158, 219);
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: rgb(255, 158, 219) !important;
+}
